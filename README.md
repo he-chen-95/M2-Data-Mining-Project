@@ -1,5 +1,5 @@
 # Data-Mining-Project
 Project for Master MLDM2 Data Mining for big data
 
-You could find project description here:
-* [**project description**](./docs/project.pdf)
+You could find the project description here:
+* [**Project Description**](./docs/project.pdf)
