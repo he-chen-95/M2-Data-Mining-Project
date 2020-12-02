@@ -1,4 +1,4 @@
-# Data-Mining-Project
+## Data-Mining-Project
 [Master Data & Connected System] Project for the course Data Mining for big data
 
 ### You could find the project description here:
