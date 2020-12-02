@@ -1,5 +1,5 @@
 # Data-Mining-Project
-Project for Master Data & Connected System Data Mining for big data
+[Master Data & Connected System] Project for the course Data Mining for big data
 
 ### You could find the project description here:
 * [**Project Description**](./docs/project.pdf)
